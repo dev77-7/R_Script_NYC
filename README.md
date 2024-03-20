@@ -1,0 +1,2 @@
+
+The "R_Script_NYC" project utilizes R with libraries such as ggplot2, lubridate, and dplyr to analyze and visualize crime incident data in New York City. It includes downloading datasets, setting up a Google Maps API, plotting geographic data points on both roadmap and satellite maps, and enhancing visualizations with elements like north arrows. The script demonstrates advanced data handling and mapping techniques in R, making it a valuable resource for geospatial analysis and visualization enthusiasts.
